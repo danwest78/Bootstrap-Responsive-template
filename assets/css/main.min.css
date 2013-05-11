@@ -1,0 +1,5 @@
+/*
+ * custom stylesheet
+ *
+ */
+body{text-align:center;background:#f3f3f3}h1,h2,h3{font-family:Georgia,"Times New Roman",Times,serif;font-weight:500}h1{font-size:40px;font-size:4.6vm;font-size:4.6vmin}h3{font-size:25px;font-size:3.0vm;font-size:3.0vmin}.cat_container{background:#fefefe;border:2px solid #ddd;padding:1em;margin:2em 0;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.cat_container p{padding:.5em 1em}img{border:solid 2px #ccc}
